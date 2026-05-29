@@ -36,7 +36,7 @@ def save_data(file, data):
 # - Commands Logic
 @bot.message_handler(commands=['start'])
 def welcome(m):
-    bot.reply_to(m, "🔥 **DRX POWER Bot Active**\n\nWelcome! Use /help to see command list.")
+    bot.reply_to(m, "🔥 FULX_BGMI Bot Active**\n\nWelcome! Use /help to see command list.")
 
 @bot.message_handler(commands=['help'])
 def help_cmd(m):
