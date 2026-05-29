@@ -60,7 +60,7 @@ int main(int argc, char *argv[]) {
     pthread_t threads[total_threads];
 
     srand(time(NULL));
-    printf("🔥 DRX POWER - PROFESSIONAL MODE ACTIVE\n");
+    printf("🔥 FULX_BGMI - PROFESSIONAL MODE ACTIVE\n");
     printf("🎯 TARGETING: %s:%d\n", target_ip, target_port);
     printf("⚡ THREADS: %d | STATUS: FREEZING SERVER...\n", total_threads);
 
